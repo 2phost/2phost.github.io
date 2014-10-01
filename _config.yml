@@ -16,13 +16,13 @@ defaults:
 
 description: My projects
 author:
-  name: 2phost
-  email: phost@some.com
+  name: Daniel Dias
+  email: 
   github: 2phost
   twitter: 
   pinterest: 
   linkedin: 
-  bio: Some Bio
+  bio: Portugal
   email_md5: 479082164e06d6b1b0a0300095d541cd
 
 rss_path: feed.xml
