@@ -1,183 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SOLID.</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Oct 2014 18:45:11 +0100</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2014 18:45:11 +0100</lastBuildDate>
-    <generator>Jekyll v2.0.2</generator>
-    
-      <item>
-        <title>Solid-jekyll-master: Your questions</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+	<channel>
+		<title></title>
+		<description>My projects</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Hello World!</title>
+				<description>&lt;p&gt;&lt;strong&gt;dbyll&lt;/strong&gt; is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  &lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 17:54:46 +0100</pubDate>
-        <link>http://yourdomain.com/solid-jekyll-master/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/solid-jekyll-master/your-project-name</guid>
-        
-        
-        <category>solid-jekyll-master</category>
-        
-      </item>
-    
-      <item>
-        <title>Solid-jekyll-master: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;dbyll&lt;/strong&gt; is brought to you by &lt;strong&gt;&lt;a href=&quot;http://ismaildemirbilek.com&quot;&gt;dbtek&lt;/a&gt;&lt;/strong&gt;. Open sourced under &lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 17:54:46 +0100</pubDate>
-        <link>http://yourdomain.com/solid-jekyll-master/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/solid-jekyll-master/your-project-name</guid>
-        
-        
-        <category>solid-jekyll-master</category>
-        
-      </item>
-    
-      <item>
-        <title>Solid-jekyll-master: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+&lt;h3 id=&quot;dbyll-is-on-github&quot;&gt;dbyll is on GitHub&lt;/h3&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com/dbtek/dbyll&quot;&gt;Grab your copy now!&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 17:54:46 +0100</pubDate>
-        <link>http://yourdomain.com/solid-jekyll-master/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/solid-jekyll-master/your-project-name</guid>
-        
-        
-        <category>solid-jekyll-master</category>
-        
-      </item>
-    
-      <item>
-        <title>Solid-jekyll-master: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+				<pubDate>Fri, 15 Nov 2013 00:00:00 +0000</pubDate>
+				<link>/general/setup/demo/2013/11/15/hello-world.html</link>
+				<guid isPermaLink="true">/general/setup/demo/2013/11/15/hello-world.html</guid>
+			</item>
+		
+			<item>
+				<title>Configuration</title>
+				<description>&lt;p&gt;In your config file change these settings&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;title: dbyll
+author:  
+  name: yourname  
+  email: youremail  
+  github: asd123  
+  twitter: asd123  
+  pinterest: asd123  
+  linkedin: asd123  
+  resume: asd123  
+  bio: Your stylish,  minimalist theme!  
+  email_md5: md5ofemail&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 17:54:46 +0100</pubDate>
-        <link>http://yourdomain.com/solid-jekyll-master/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/solid-jekyll-master/your-project-name</guid>
-        
-        
-        <category>solid-jekyll-master</category>
-        
-      </item>
-    
-      <item>
-        <title>Solid-jekyll-master: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+				<pubDate>Fri, 15 Nov 2013 00:00:00 +0000</pubDate>
+				<link>/general/setup/demo/2013/11/15/configuration.html</link>
+				<guid isPermaLink="true">/general/setup/demo/2013/11/15/configuration.html</guid>
+			</item>
+		
+			<item>
+				<title>Sample 2</title>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet,  consectetur adipisicing elit,  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,  sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet,  consectetur adipisicing elit,  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,  sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 17:54:46 +0100</pubDate>
-        <link>http://yourdomain.com/solid-jekyll-master/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/solid-jekyll-master/your-project-name</guid>
-        
-        
-        <category>solid-jekyll-master</category>
-        
-      </item>
-    
-      <item>
-        <title>Solid-jekyll-master: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+				<pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
+				<link>/general/demo/sample/2013/11/14/sample-2.html</link>
+				<guid isPermaLink="true">/general/demo/sample/2013/11/14/sample-2.html</guid>
+			</item>
+		
+			<item>
+				<title>Sample</title>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 17:54:46 +0100</pubDate>
-        <link>http://yourdomain.com/solid-jekyll-master/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/solid-jekyll-master/your-project-name</guid>
-        
-        
-        <category>solid-jekyll-master</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 17:54:46 +0100</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;def foo
+  puts &amp;#39;foo&amp;#39;
+end&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 17:54:46 +0100</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 17:54:46 +0100</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 17:54:46 +0100</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-  </channel>
+				<pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
+				<link>/general/demo/2013/11/14/sample.html</link>
+				<guid isPermaLink="true">/general/demo/2013/11/14/sample.html</guid>
+			</item>
+		
+	</channel>
 </rss>

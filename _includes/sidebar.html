@@ -1,47 +1,63 @@
-<div class="col-lg-4">
-   <!--  <h4>Search</h4>
-    <div class="hline"></div>
-        <p>
-            <br/>
-            <input type="text" class="form-control" placeholder="Search something">
-        </p>
-    <div class="spacing"></div> -->
-    <h4>Subscribe</h4>
-    <div class="hline"></div>
-        <p>
-            <p class="rss-subscribe">Subscribe to this blog <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.</p>
-        </p>
-    <div class="spacing"></div>
-    <h4>Categories</h4>
-    <div class="hline"></div>
-    {% for category in site.categories %}{% unless category.first == "blog" or category.first == "project" or category.first == "question" %}
-        <p>
-            <a href="{{ category.url }}"><i class="fa fa-angle-right"></i> {{ category | first | capitalize }}</a>
-            <span class="badge badge-theme pull-right">{{ category | last | size }}</span>
-        </p>
-    {% endunless %}{% endfor %}
+<! -- sidebar.html -->
+<header class="sidebar-header" role="banner">
+	<a href="{{ site.BASE_PATH }}/">
+		<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=150" class="img-circle" />
+	</a>
+	<h3 class="title">
+        <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
+    </h3>
+</header>
 
-    <div class="spacing"></div>
-
-    <h4>Recent Posts</h4>
-    <div class="hline"></div>
-        <ul class="popular-posts">
-            {% for post in site.categories['blog'] limit:4 %} 
-                <li>
-                    <a href="{{ post.url }}"><img src="{{ "/assets/img/blog/thumbs/" | prepend: site.baseurl }}{{ post.thumb }}" alt="Popular Post"></a>
-                    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-                <em>Posted on {{ post.date | date_to_string }}</em>
-            </li>
-            {% endfor %} 
-        </ul>
-
-    <div class="spacing"></div>
-
-    <h4>Popular Tags</h4>
-    <div class="hline"></div>
-    <p>
-        {% for category in site.categories %}{% unless category.first == "blog" or category.first == "project" %}
-            <a class="btn btn-theme" href="{{ category.url }}" role="button">{{ category | first | capitalize }} ({{ category | last | size }})</a>	         
-        {% endunless %}{% endfor %}
-    </p>
+{% if site.author.bio %}
+<div id="bio" class="text-center">
+	{{ site.author.bio }}
 </div>
+{% endif %}
+
+<div id="contact-list" class="text-center">
+	<ul class="list-unstyled list-inline">
+		{% if site.author.github %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
+				<i class="fa fa-github-alt fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+		{% if site.author.twitter %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://twitter.com/{{ site.author.twitter }}">
+				<i class="fa fa-twitter fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+		{% if site.author.email %}
+		<li>
+			<a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
+				<i class="fa fa-envelope fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+	</ul>
+	<ul id="contact-list-secondary" class="list-unstyled list-inline">
+		{% if site.author.pinterest %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://pinterest.com/{{ site.author.pinterest }}">
+				<i class="fa fa-pinterest fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+		{% if site.author.linkedin %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://linkedin.com/pub/{{ site.author.linkedin }}">
+				<i class="fa fa-linkedin fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+		<li>
+			<a class="btn btn-default btn-sm" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
+				<i class="fa fa-rss fa-lg"></i>
+			</a>
+		</li>
+	</ul>
+</div>
+<! -- sidebar.html end -->
