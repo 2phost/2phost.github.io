@@ -7,16 +7,22 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Hello World!</title>
-				<description>&lt;p&gt;&lt;strong&gt;Hello World&lt;/strong&gt; teste  &lt;/p&gt;
+				<title>Installing Archlinux - part1</title>
+				<description>&lt;p&gt;&lt;strong&gt;What is Archlinux&lt;/strong&gt;&lt;br /&gt;
+TODO&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why Archlinux&lt;/strong&gt;&lt;br /&gt;
+TODO&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Installing Base System&lt;/strong&gt;&lt;br /&gt;
+TODO  &lt;/p&gt;
 
 &lt;h3 id=&quot;phost-is-on-github&quot;&gt;2phost is on GitHub&lt;/h3&gt;
-
 &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com/2phost&quot;&gt;2phost!&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Wed, 01 Oct 2014 00:00:00 +0100</pubDate>
-				<link>/general/setup/demo/2014/10/01/hello-world.html</link>
-				<guid isPermaLink="true">/general/setup/demo/2014/10/01/hello-world.html</guid>
+				<link>/linux/archlinux/guides/2014/10/01/installing-archlinux.html</link>
+				<guid isPermaLink="true">/linux/archlinux/guides/2014/10/01/installing-archlinux.html</guid>
 			</item>
 		
 	</channel>
