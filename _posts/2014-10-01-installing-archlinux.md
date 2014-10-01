@@ -3,6 +3,7 @@ layout: post
 title: Installing Archlinux - part1
 categories: [Linux, Archlinux, Guides]
 tags: [linux, archlinux, OS, guide]
+comments: true
 fullview: true
 ---
 
