@@ -1,0 +1,32 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: true
+markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: phost
+
+description: My projects
+author:
+  name: Daniel Dias
+  email: 
+  github: 2phost
+  twitter: 
+  pinterest: 
+  linkedin: 
+  bio: Portugal
+  email_md5: 479082164e06d6b1b0a0300095d541cd
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:

@@ -12,6 +12,9 @@ TODO
 **Why Archlinux**  
 TODO
 
+**Bootable pendrive**
+
+
 **Installing Base System**  
 TODO  
 
