@@ -9,6 +9,7 @@ fullview: true
 The following list represents the set of applications used in my daily basis.
 
 **Windows Manager** awesome
+
 **Application launcher** dmenu
 
 **To Be Continued**
