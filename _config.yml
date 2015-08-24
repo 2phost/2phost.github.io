@@ -12,11 +12,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: phost
+      title: Daniel Gonçalves
 
 description: My projects
 author:
-  name: Daniel Dias
+  name: Daniel Gonçalves
   email: 
   github: 2phost
   twitter: 
