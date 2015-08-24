@@ -6,7 +6,7 @@ tags: [linux, apps]
 fullview: true
 ---
 
-The following list represents the set of applications used in my daily basis.
+The following list represents the set of applications used on a daily basis.
 
 **Windows Manager** awesome
 
