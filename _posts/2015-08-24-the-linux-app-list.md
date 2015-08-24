@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Linux App List
+title: The Linux Applications List
 categories: [Linux, Applications]
-tags: [linux, apps]
+tags: [linux, applications]
 fullview: true
 ---
 
@@ -31,7 +31,8 @@ Since simplicity is better than having a lot of non-functional features, I tend 
 **Terminal Emulator** st  
 **Shell** zsh  
 **Wifi Manager** wicd or wpa_supplicant  
-**Web Browser** ...  
+**Web Browser** firefox, jumanji  
+
 
 
 **To Be Continued**
