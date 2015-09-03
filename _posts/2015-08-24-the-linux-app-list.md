@@ -29,6 +29,7 @@ Since simplicity is better than having a lot of non-functional features, I tend 
 **Revision Control System** git  
 **Task Manager** top/htop  
 **Text Editor** vim  
+**Latex IDE** TeXstudio  
 **Terminal Emulator** roxterm  
 **Shell** zsh  
 **Wifi Manager** wicd or wpa_supplicant  
