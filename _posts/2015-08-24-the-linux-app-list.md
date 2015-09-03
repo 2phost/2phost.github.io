@@ -20,19 +20,21 @@ Since simplicity is better than having a lot of non-functional features, I tend 
 **Media Player** mpv  
 **Media Editor** ...  
 **Media Manager** mediaelch  
+**Music Player** cmus  
 **Office Suite** libreoffice  
 **Password Manager** keepassx  
-**PDF viewer** zathura  
+**PDF viewer** zathura and qpdfview  
 **Monitor Layout Manager** xrandr and arandr  
 **Screenshot** scrot/maim or shutter  
 **Revision Control System** git  
 **Task Manager** top/htop  
 **Text Editor** vim  
-**Terminal Emulator** st  
+**Terminal Emulator** roxterm  
 **Shell** zsh  
 **Wifi Manager** wicd or wpa_supplicant  
 **Web Browser** firefox, jumanji  
 
+**DotFiles Management** vcsh with myrepos  
 
 
 **To Be Continued**
