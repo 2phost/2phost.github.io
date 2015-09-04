@@ -13,9 +13,9 @@ This post details managing dotfiles using vcsh, myrepos and github.
 
 These tools allow us:  
 
-- Have the configuration files in separated repos
-- An automated way to loading dotfiles on a new machine
-- Manage different repos at the same time
+- To have configuration files in separated repos
+- To automate loading dotfiles on a new machine
+- To manage different repos at the same time
 
 **Set-up the environment**
 
