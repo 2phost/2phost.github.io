@@ -12,8 +12,9 @@ For some time now I have been looking for a way to manage my config files,
 This post details managing dotfiles using vcsh, myrepos and github.
 
 These tools allow us:  
-- Have separated repos for each 
-- Automatize a new configuration in a new computer
+
+- Have separated repos for each  
+- Automatize a new configuration in a new computer  
 - Manage all repos at the same time
 
 **Set-up the environment**
