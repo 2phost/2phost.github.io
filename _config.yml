@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-url: "http://2phost.github.io"
+url: "http://danieldiasgoncalves.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   Contact: "contact"
-  Author's home: "http://deanattali.com"
+  #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
 
@@ -47,7 +47,7 @@ author:
  
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: true
@@ -70,7 +70,7 @@ url-pretty: "DanielDiasGoncalves.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Lisbon"
 markdown: kramdown
 highlighter: pygments
 permalink: /:year-:month-:day-:title
