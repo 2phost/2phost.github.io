@@ -29,11 +29,7 @@
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
     </nav>
     
-    <a href="teste"><i class="fa fa-github-square fa-3x"></i></a>
-<span class="fa-stack fa-lg">
-  <i class="fa fa-square-o fa-stack-2x"></i>
-  <i class="fa fa-twitter fa-stack-1x"></i>
-</span>
+    {{ with site.github.repo }}<a href="{{ . }}"><i class="fa fa-github-square fa-3x"></i></a>{{ end }}
 
 <i class="fa fa-camera-retro"></i> fa-camera-retro
 
