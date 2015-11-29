@@ -4,14 +4,16 @@ title: About
 ---
 <div class="page">
 	
-	<h1>About</h1>
+	<h1 class="page-title">About</h1>
 
+	<p>
 	I have a M.Sc. in Information Systems and Computer Engineering from Instituto
 	Superior Técnico, University of Lisboa, whose main area is Distributed Systems
 	and complementary area is Software Engineering.
 
 	My interests are in network security, information security, distributed systems,
 	   kernel development and machine learning.
+	</p>
 
 </div>
 <!---
