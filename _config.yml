@@ -15,7 +15,8 @@ baseurl:          /
 
 author:
   name:           'Daniel Gonçalves'
-  url:            https://twitter.com/user
+  email:          mailto:mail@danieldiasgoncalves.com
+  url:            http://danieldiasgoncalves.com
 
 paginate:         5
 
