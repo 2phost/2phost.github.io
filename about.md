@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<h1>About</h1>
+# About
 
 I have a M.Sc. in Information Systems and Computer Engineering from Instituto
 Superior Técnico, University of Lisboa, whose main area is Distributed Systems
