@@ -4,7 +4,7 @@ title: About
 ---
 <div class="page">
 	
-	# About
+	<h1>About</h1>
 
 	I have a M.Sc. in Information Systems and Computer Engineering from Instituto
 	Superior Técnico, University of Lisboa, whose main area is Distributed Systems
