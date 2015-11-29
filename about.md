@@ -2,16 +2,18 @@
 layout: default
 title: About
 ---
+<div class="page">
+	
+	# About
 
-# About
+	I have a M.Sc. in Information Systems and Computer Engineering from Instituto
+	Superior Técnico, University of Lisboa, whose main area is Distributed Systems
+	and complementary area is Software Engineering.
 
-I have a M.Sc. in Information Systems and Computer Engineering from Instituto
-Superior Técnico, University of Lisboa, whose main area is Distributed Systems
-and complementary area is Software Engineering.
+	My interests are in network security, information security, distributed systems,
+	   kernel development and machine learning.
 
-My interests are in network security, information security, distributed systems,
-   kernel development and machine learning.
-
+</div>
 <!---
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
