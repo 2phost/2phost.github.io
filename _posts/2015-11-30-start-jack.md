@@ -14,7 +14,7 @@ Jack is a low-latency audio server for multi-processor machines.
 
 Below is my script to start the Jack server.
 
-```shell
+```bash
 #!/bin/bash
 
 # Set performance
