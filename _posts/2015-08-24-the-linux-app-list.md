@@ -34,11 +34,8 @@ Since simplicity is better than having a lot of non-functional features, I tend 
 **Shell** zsh  
 **Wifi Manager** wicd or wpa_supplicant  
 **Web Browser** firefox, jumanji  
-
 **DotFiles Management** vcsh with myrepos  
 
 **Others**  
 Unclutter - Hides X mouse cursor when it is not need  
-Compton - Lightweight, standalone composite manager  .
-
-**To Be Continued**
+Compton - Lightweight, standalone composite manager
