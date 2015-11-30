@@ -2,10 +2,8 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       {{ if isset site.author "gravatar" }}
-        <center>
           <img src="https://www.gravatar.com/avatar/{{ site.author.gravatar }}?s=125"
              alt="gravatar" title="{{ site.author.name }}">
-        </center>
       {{ end }}
       <h1>
         <a href="{{ site.baseurl }}">
