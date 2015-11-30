@@ -11,7 +11,7 @@ title:            Daniel Gonçalves
 tagline:          'Personal site'
 description:      'R&D Security Consultant.'
 url:              http://danieldiasgoncalves.com
-baseurl:          http://danieldiasgoncalves.com
+baseurl:          /
 
 author:
   name:           'Daniel Gonçalves'
